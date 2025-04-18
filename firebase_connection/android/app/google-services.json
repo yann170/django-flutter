@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "566980563901",
+    "project_id": "familly-77",
+    "storage_bucket": "familly-77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566980563901:android:3cfc4db88ef26a5a69f8d4",
+        "android_client_info": {
+          "package_name": "app.firebaseApk.com.familly_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtriupcxA291sTDFYCzl-axPLCNuX6Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566980563901:android:5bd795f4af42c42669f8d4",
+        "android_client_info": {
+          "package_name": "com.andro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtriupcxA291sTDFYCzl-axPLCNuX6Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566980563901:android:424545a29f46f4f469f8d4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtriupcxA291sTDFYCzl-axPLCNuX6Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

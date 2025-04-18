@@ -1,0 +1,45 @@
+name: firebase_connection
+
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=2.19.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  english_words: ^4.0.0
+  provider: ^6.0.0
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
+  http: ^1.3.0 
+  cloud_firestore: ^5.6.6
+  firebase_storage: ^12.4.5
+  image_picker: ^1.0.4
+  cached_network_image: ^3.3.0
+  intl: ^0.20.2 
+  firebase_analytics: ^11.4.5
+  firebase_messaging: ^15.2.5
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true 
+  assets:
+      - assets/MOZILA.JPG  
+      - assets/AGNO3191.JPG
+      - assets/background.JPG
+      - assets/lake.jpg
+      - assets/logo.jpg
+
