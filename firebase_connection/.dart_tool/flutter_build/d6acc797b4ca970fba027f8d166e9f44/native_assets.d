@@ -1,0 +1,1 @@
+ /home/yann/Documents/flutter_projet/flutter_django/firebase_connection/.dart_tool/flutter_build/d6acc797b4ca970fba027f8d166e9f44/native_assets.yaml: 
